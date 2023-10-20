@@ -1,0 +1,296 @@
+[
+    {
+        "name": "AbulaChan",
+        "url": "http://chan.abulafia.space/",
+        "language": [
+            "en"
+        ],
+        "software": [
+            "abulachan"
+        ]
+    },
+    {
+        "name": "Amenokuni Society Public Discussion BBS",
+        "url": "http://amenokuni.com/bbs/",
+        "language": [
+            "en"
+        ],
+        "software": [
+            "kareha"
+        ]
+    },
+    {
+        "name": "Buchstubn",
+        "url": "http://buchstubn.com/aa/",
+        "language": [
+            "de",
+            "en"
+        ],
+        "software": [
+            "kareha"
+        ]
+    },
+    {
+        "name": "ByteChan",
+        "url": "http://na67g442t5fg26elh2vcnwtttrq5hwjsjvfsge6ckc2h573ducgtuqid.onion/",
+        "language": [
+            "en"
+        ],
+        "software": [
+            "wakaba"
+        ]
+    },
+    {
+        "name": "Discussions @ Leftychan",
+        "url": "https://dis.leftychan.net/",
+        "language": [
+            "en"
+        ],
+        "software": [
+            "kareha"
+        ]
+    },
+    {
+        "name": "Kiramoji Message Board",
+        "url": "https://kiramoji.ga/",
+        "language": [
+            "en"
+        ],
+        "software": [
+            "kareha"
+        ]
+    },
+    {
+        "name": "N.C. State University Linux User Group BBS",
+        "url": "https://forum.lug.ncsu.edu/",
+        "language": [
+            "en"
+        ],
+        "software": [
+            "kareha"
+        ]
+    },
+    {
+        "name": "Noder",
+        "url": "http://noder.org/",
+        "language": [
+            "en"
+        ]
+    },
+    {
+        "name": "PRTF",
+        "url": "http://prtf.net/",
+        "language": [
+            "en"
+        ]
+    },
+    {
+        "name": "Paheal downtime board",
+        "url": "http://blog.paheal.net/dis/",
+        "language": [
+            "en"
+        ],
+        "software": [
+            "kareha"
+        ]
+    },
+    {
+        "name": "RAL Neo-Forum",
+        "url": "https://ralee.org/",
+        "mirrors": [
+            "https://ralee.org/",
+            "http://f32tp3rg2tgvfzwp76j6jef62qzwgni2fullrvtwpa3fhdnqbvteqtid.onion/"
+        ],
+        "language": [
+            "en"
+        ],
+        "software": [
+            "RAL"
+        ]
+    },
+    {
+        "name": "Shin-chan",
+        "url": "http://l4pcdsvyckfixcb4uoy6xkmnvfyrmgg7m6q2xbr7yo4hlrlhdfnzbjyd.onion/",
+        "language": [
+            "en"
+        ],
+        "software": [
+            "tinyib"
+        ]
+    },
+    {
+        "name": "Suomiskene",
+        "url": "http://suomidrm4jxoggzwe4ibav6e74xlx2qoriq33vyqe2gk2gaibngw3uyd.onion/?/ukko/",
+        "language": [
+            "fi"
+        ]
+    },
+    {
+        "name": "Textboard For Cool People",
+        "url": "http://daviemustang.host2.us/text/",
+        "language": [
+            "en"
+        ],
+        "software": [
+            "kareha"
+        ]
+    },
+    {
+        "name": "The Dream Cafe",
+        "url": "https://cafe.ynoproject.net/",
+        "language": [
+            "en"
+        ],
+        "software": [
+            "kareha"
+        ]
+    },
+    {
+        "name": "Uchuu no Kiroku Discussion Board",
+        "url": "https://uchuu-kiroku.org/bbs/",
+        "language": [
+            "en"
+        ],
+        "software": [
+            "kareha"
+        ]
+    },
+    {
+        "name": "World4ch",
+        "url": "https://dis.4ct.org/",
+        "language": [
+            "en"
+        ],
+        "software": [
+            "read.cgi"
+        ]
+    },
+    {
+        "name": "deltaChannel",
+        "url": "https://deltachannel.herokuapp.com/",
+        "language": [
+            "en"
+        ],
+        "software": [
+            "deltachannel"
+        ]
+    },
+    {
+        "name": "himachoogi",
+        "url": "https://himasugi.blog/21/",
+        "language": [
+            "en"
+        ],
+        "software": [
+            "kareha"
+        ]
+    },
+    {
+        "name": "nest.rf.gd",
+        "url": "http://nest.rf.gd/",
+        "language": [
+            "en"
+        ],
+        "software": [
+            "microtxt"
+        ]
+    },
+    {
+        "name": "ratwires",
+        "url": "https://ratwires.space/",
+        "mirrors": [
+            "https://ratwires.space/",
+            "http://6bjckqi7h3cm2bfseh63ukg5ptr77czwm53cfqv7gjwcm6bmvehaaeqd.onion/"
+        ],
+        "language": [
+            "en"
+        ],
+        "software": [
+            "ratmachine"
+        ]
+    },
+    {
+        "name": "ripirc bbs",
+        "url": "http://ripirc.org/",
+        "language": [
+            "en"
+        ],
+        "software": [
+            "multichan"
+        ]
+    },
+    {
+        "name": "sakinorva iris",
+        "url": "http://i.sakinorva.net/",
+        "language": [
+            "en"
+        ]
+    },
+    {
+        "name": "spacemy",
+        "url": "https://spacemy.acxyz.ca/forum/",
+        "language": [
+            "en"
+        ],
+        "software": [
+            "kareha"
+        ]
+    },
+    {
+        "name": "treeboard",
+        "url": "http://tree-board.net/",
+        "language": [
+            "en"
+        ]
+    },
+    {
+        "name": "winter's secret textboard",
+        "url": "http://winterbread.c1.biz/textboard/defcon_2/last_pure_recall/",
+        "language": [
+            "en"
+        ],
+        "software": [
+            "tinyib"
+        ]
+    },
+    {
+        "name": "唐澤貴洋殺す掲示板",
+        "url": "https://koushin.xyz/krsw/",
+        "language": [
+            "ja"
+        ],
+        "software": [
+            "BBS.CGI"
+        ]
+    },
+    {
+        "name": "唐澤貴洋殺す掲示板",
+        "url": "https://koushin.xyz/krsw/",
+        "language": [
+            "ja"
+        ],
+        "software": [
+            "BBS.CGI"
+        ]
+    },
+    {
+        "name": "車中泊大百科 掲示板",
+        "url": "https://www.shachuhaku.com/bbs/",
+        "language": [
+            "ja"
+        ],
+        "software": [
+            "kareha"
+        ]
+    },
+    {
+        "name": "車中泊大百科 掲示板",
+        "url": "https://www.shachuhaku.com/bbs/",
+        "language": [
+            "ja"
+        ],
+        "software": [
+            "kareha"
+        ]
+    }
+]
