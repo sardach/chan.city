@@ -1,0 +1,288 @@
+[
+    {
+        "name": "2channel",
+        "url": "http://2ch.sc/2ch.html",
+        "language": [
+            "ja"
+        ],
+        "software": [
+            "read.cgi"
+        ]
+    },
+    {
+        "name": "5channel",
+        "url": "http://www2.5ch.net/5ch.html",
+        "language": [
+            "ja",
+            "en"
+        ],
+        "software": [
+            "BBS.CGI"
+        ]
+    },
+    {
+        "name": "Ayashii Channel BBS",
+        "url": "http://xiongnu.org/ayashii/",
+        "language": [
+            "en"
+        ]
+    },
+    {
+        "name": "Bienvenido a Internet BBS/IB",
+        "url": "https://bienvenidoainternet.org/bai.html",
+        "language": [
+            "es"
+        ],
+        "software": [
+            "weabot"
+        ]
+    },
+    {
+        "name": "Channel4 BBS",
+        "url": "https://4-ch.net/4ch",
+        "language": [
+            "en"
+        ],
+        "software": [
+            "kareha"
+        ]
+    },
+    {
+        "name": "FC2 BBS",
+        "url": "http://bbs.fc2.com/en/",
+        "language": [
+            "ja",
+            "en"
+        ]
+    },
+    {
+        "name": "Getgle BBS",
+        "url": "https://bbs.getgle.org/",
+        "redirects": [
+            "https://getgle.org/bbs/"
+        ],
+        "language": [
+            "en"
+        ]
+    },
+    {
+        "name": "OVERTEXT and Textboard Culture Discussion Board",
+        "url": "http://xiongnu.org/boards/meta/",
+        "language": [
+            "en"
+        ],
+        "software": [
+            "kareha"
+        ]
+    },
+    {
+        "name": "Post Office",
+        "url": "https://afternoon.dynu.com/letterbox.html",
+        "language": [
+            "en"
+        ],
+        "software": [
+            "tablecat"
+        ]
+    },
+    {
+        "name": "Scheme BBS",
+        "url": "https://textboard.org/",
+        "mirrors": [
+            "https://textboard.org/",
+            "http://7ubwrcixdcemzqwqzh2vaakjsnochj2biuzpo6dc2n4f7wqj4pua.b32.i2p/",
+            "http://bbs.i2p/",
+            "http://textboard.i2p/"
+        ],
+        "language": [
+            "en"
+        ],
+        "software": [
+            "bbs.scm"
+        ]
+    },
+    {
+        "name": "Secret Area of VIP Quality",
+        "url": "https://secretareaofvipquality.org/saovq/",
+        "language": [
+            "en"
+        ],
+        "software": [
+            "emanon"
+        ]
+    },
+    {
+        "name": "Strange World@Heyuri.net",
+        "url": "https://ayashii.net/",
+        "mirrors": [
+            "https://ayashii.net/",
+            "https://img.heyuri.net/sw/"
+        ],
+        "language": [
+            "en"
+        ],
+        "software": [
+            "kuzuhascriptphp+"
+        ]
+    },
+    {
+        "name": "The Transient Textboard",
+        "url": "https://textboard.net/",
+        "language": [
+            "en"
+        ]
+    },
+    {
+        "name": "The Unholy Citadel of 6ch",
+        "url": "https://sageru.org/",
+        "language": [
+            "en"
+        ],
+        "software": [
+            "kareha"
+        ]
+    },
+    {
+        "name": "Tinychan BBS",
+        "url": "https://dis.tinychan.net/",
+        "mirrors": [
+            "https://dis.tinychan.net/",
+            "https://freesoftwarefoundation.org/"
+        ],
+        "redirects": [
+            "https://progrider.org/"
+        ],
+        "language": [
+            "en"
+        ],
+        "software": [
+            "Tinychan"
+        ]
+    },
+    {
+        "name": "Vampiros.ml",
+        "url": "https://vampiros.ml/internet/",
+        "language": [
+            "es"
+        ]
+    },
+    {
+        "name": "Wiki Development Discussion Board",
+        "url": "http://ro.doddlercon.com/wikidiscussion/",
+        "language": [
+            "en"
+        ],
+        "software": [
+            "kareha"
+        ]
+    },
+    {
+        "name": "Writefaggotry",
+        "url": "http://dis.4chanhouse.org/write/",
+        "language": [
+            "en"
+        ],
+        "software": [
+            "kusaba",
+            "kusabax"
+        ]
+    },
+    {
+        "name": "atob",
+        "url": "https://atob.xyz/",
+        "language": [
+            "en"
+        ],
+        "software": [
+            "atob"
+        ]
+    },
+    {
+        "name": "dakanya channel",
+        "url": "https://tsubasa.nu/dakanya/ch/",
+        "language": [
+            "en"
+        ],
+        "software": [
+            "kareha"
+        ]
+    },
+    {
+        "name": "danger/u/",
+        "url": "https://dangeru.us/",
+        "language": [
+            "en"
+        ],
+        "software": [
+            "Awoo"
+        ]
+    },
+    {
+        "name": "kaorin.pestermom.com",
+        "url": "http://kaorin.pestermom.com/BBS/",
+        "language": [
+            "en"
+        ],
+        "software": [
+            "kareha"
+        ]
+    },
+    {
+        "name": "neetBBS",
+        "url": "https://bbs.neet.tv/",
+        "language": [
+            "en"
+        ],
+        "software": [
+            "hivebbs"
+        ]
+    },
+    {
+        "name": "ninechan",
+        "url": "https://ninechan.flash.moe/",
+        "language": [
+            "en"
+        ],
+        "software": [
+            "ninechan"
+        ]
+    },
+    {
+        "name": "sakinorva shoreline",
+        "url": "https://sakinorva.net/shoreline/",
+        "language": [
+            "en"
+        ]
+    },
+    {
+        "name": "textchan",
+        "url": "https://www.textchan.com/",
+        "language": [
+            "en"
+        ],
+        "software": [
+            "wakaba",
+            "wakaba++"
+        ]
+    },
+    {
+        "name": "w3o.net",
+        "url": "https://w3o.net/boards/txt/forum.html",
+        "language": [
+            "en"
+        ],
+        "software": [
+            "kareha"
+        ]
+    },
+    {
+        "name": "マヨルカ島掲示板",
+        "url": "https://ensaimada.xyz/43044/",
+        "language": [
+            "ja"
+        ],
+        "software": [
+            "BBS.CGI"
+        ]
+    }
+]
