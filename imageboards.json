@@ -86,6 +86,14 @@
       ]
    },
    {
+      "name":"1500chan",
+      "url":"https://1500chan.org/",
+      ],
+      "language":[
+         "pt-br"
+      ]
+   },
+   {
       "name":"1chan",
       "url":"https://www.1chan.net/rail/",
       "language":[
@@ -1893,6 +1901,14 @@
          "tinyboard",
          "vichan",
          "fukuro"
+      ]
+   },
+      {
+      "name":"Tchan",
+      "url":"https://tchan.lol/",
+      ],
+      "language":[
+         "pt-br"
       ]
    },
    {
