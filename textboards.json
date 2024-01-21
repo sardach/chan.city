@@ -284,5 +284,15 @@
         "software": [
             "BBS.CGI"
         ]
+    },
+    {
+        "name": "IchoriaBBS",
+        "url": "https://bbs.ichoria.xyz/",
+        "language": [
+            "es"
+        ],
+        "software": [
+            "rhizomebbs"
+        ]
     }
 ]
